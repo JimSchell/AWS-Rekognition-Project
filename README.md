@@ -3,7 +3,7 @@ In this project I used the following AWS services, S3, Cloud 9 IDE using an EC2 
 
 
 
-•	Identifying products in store for inventory management
+•	Identifying products in store for inventory management.
 
 
 
